@@ -1,0 +1,3 @@
+hello this is the first file added to my DataScience repo.
+
+please be gentle.
